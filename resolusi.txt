@@ -1,2 +1,4 @@
 Resolusi yang pertama untuk berlatih, mempelajari tentang git dan github
 Saya telah Mengubah Repo ini, sekarang repo ini mempunyai 2 baris
+Menambahkan Branch baru 
+Mempelajari tentang Branch dan coba untuk case yang berbeda
